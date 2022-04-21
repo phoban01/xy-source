@@ -4,4 +4,4 @@ metadata:
   name: test-configmap
 data:
   FOO: BAR
-  FOO: BAR
+  BAR: FOO
